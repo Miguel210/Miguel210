@@ -7,8 +7,6 @@ Un estudiante apasionado por la tecnología actualmente estoy en cursando ingeni
 Estoy buscando nuevas oportunidades y contribuir al éxito de una empresa innovadora. Si está buscando un ingeniero en sistemas, no dude en contactarme.
 </p>
 
-- 📫 Como puedes contactarme: **mickymala.mala@gmail.com**
-- 🌱 Actualmente estoy estudiando: **TypeScript**
 
 
 <h3 align="left">Connect with me:</h3>
