@@ -1,7 +1,14 @@
 <h1 align="center">Hi 👋, I'm Miguel Angel Lozano</h1>
-- 🌱 I’m currently learning **TypeScript**
 
-- 📫 How to reach me **mickymala.mala@gmail.com**
+<h2>Sobre mi</h2>
+<p>
+Un estudiante apasionado por la tecnología actualmente estoy en cursando ingeniería en sistemas computacionales 8vo semestre en el Instituto Tecnológico de Arandas.
+Estoy buscando nuevas oportunidades y contribuir al éxito de una empresa innovadora. Si está buscando un ingeniero en sistemas, no dude en contactarme.
+</p>
+
+- 📫 Como puedes contactarme: **mickymala.mala@gmail.com**
+- 🌱 Actualmente estoy estudiando: **TypeScript**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
