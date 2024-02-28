@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miguel Angel Lozano</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=miguel210&label=Profile%20views&color=0e75b6&style=flat" alt="miguel210" /> </p>
 
 <h2>Sobre mi</h2>
 <p>
